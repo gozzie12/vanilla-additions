@@ -1,0 +1,28 @@
+{
+  "_fv": 8,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ironbattleaxe",
+    "customModelName": "Normal",
+    "name": "Iron Battle Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 0,
+    "efficiency": 6.0,
+    "attackSpeed": 0.4,
+    "enchantability": 13,
+    "damageVsEntity": 4.0,
+    "usageCount": 250,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.IRON_INGOT"
+      }
+    ]
+  }
+}

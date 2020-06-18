@@ -1,0 +1,28 @@
+{
+  "_fv": 8,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "diamondbattleaxe",
+    "customModelName": "Normal",
+    "name": "Diamond Battle Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 0,
+    "efficiency": 4.0,
+    "attackSpeed": 0.4,
+    "enchantability": 10,
+    "damageVsEntity": 20.0,
+    "usageCount": 1561,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.DIAMOND"
+      }
+    ]
+  }
+}

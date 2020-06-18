@@ -1,0 +1,58 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "DiamondBattleAxe",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_battle_axe"
+    },
+    {
+      "name": "GoldenBattleAxe",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_battle_axe"
+    },
+    {
+      "name": "IronBattleAxe",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_battle_axe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.vanilla_additions.diamond_battle_axe": "Diamond Battle Axe",
+      "item.vanilla_additions.iron_battle_axe": "Iron Battle Axe",
+      "item.vanilla_additions.golden_battle_axe": "Golden Battle Axe"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "vanilla_additions",
+    "modName": "vanilla additions",
+    "version": "1.0.0",
+    "author": "gosde, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "vanilla_additions",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000322116
+}
